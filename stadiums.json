@@ -6,140 +6,140 @@
       "code": "NFC",
       "country": "England",
       "stadium": "City Ground",
-      "capacity": "30,332"
+      "capacity": 30,332
     },
     {
       "name": "AFC Bournemouth",
       "code": "BOU",
       "country": "England",
       "stadium": "Vitality Stadium",
-      "capacity": "11,329"
+      "capacity": 11,329
     },
     {
       "name": "Fullham FC",
       "code": "FUL",
       "country": "England",
       "stadium": "Craven Cottage",
-      "capacity": "22,384"
+      "capacity": 22,384
     },
     {
       "name": "Brentford FC",
       "code": "BRE",
       "country": "England",
       "stadium": "Gtech Community Stadium",
-      "capacity": "17,250"
+      "capacity": 17,250
     },
     {
       "name": "Manchester United FC",
       "code": "MUN",
       "country": "England",
       "stadium": "Old Trafford",
-      "capacity": "74,310"
+      "capacity": 74,310
     },
     {
       "name": "Manchester City FC",
       "code": "MCI",
       "country": "England",
       "stadium": "Etihad Stadium",
-      "capacity": "53,400"
+      "capacity": 53,400
     },
     {
       "name": "Aston Villa FC",
       "code": "AVL",
       "country": "England",
       "stadium": "Villa Park",
-      "capacity": "42,657"
+      "capacity": 42,657
     },
     {
       "name": "Arsenal FC",
       "code": "ARS",
       "country": "England",
       "stadium": "Emirates Stadium",
-      "capacity": "60,704"
+      "capacity": 60,704
     },
     {
       "name": "Crystal Palace FC",
       "code": "CRY",
       "country": "England",
       "stadium": "Selhurst Park",
-      "capacity": "25,486"
+      "capacity": 25,486
     },
     {
       "name": "Southampton FC",
       "code": "SOU",
       "country": "England",
       "stadium": "Saint Mary's Stadium",
-      "capacity": "32,384"
+      "capacity": 32,384
     },
     {
       "name": "Liverpool FC",
       "code": "LIV",
       "country": "England",
       "stadium": "Anfield",
-      "capacity": "54,000"
+      "capacity": 54,000
     },
     {
       "name": "West Ham United FC",
       "code": "WHU",
       "country": "England",
       "stadium": "Boleyn Ground",
-      "capacity": "35,016"
+      "capacity": 35,016
     },
     {
       "name": "Newcastle United FC",
       "code": "NEW",
       "country": "England",
       "stadium": "St James Park",
-      "capacity": "52,305"
+      "capacity": 52,305
     },
     {
       "name": "Leicester City FC",
       "code": "LEI",
       "country": "England",
       "stadium": "King Power Stadium",
-      "capacity": "32,261"
+      "capacity": 32,261
     },
     {
       "name": "Tottenham Hotspur FC",
       "code": "TOT",
       "country": "England",
       "stadium": "Tottenham Hotspur Stadium",
-      "capacity": "62,850"
+      "capacity": 62,850
     },
     {
       "name": "Everton FC",
       "code": "EVE",
       "country": "England",
       "stadium": "Everton Stadium",
-      "capacity": "52,888"
+      "capacity": 52,888
     },
     {
       "name": "Leeds United FC",
       "code": "LEE",
       "country": "England",
       "stadium": "Elland Road",
-      "capacity": "37,608"
+      "capacity": 37,608
     },
     {
       "name": "Wolverhampton Wanderers FC",
       "code": "WOL",
       "country": "England",
       "stadium": "Molineux Stadium",
-      "capacity": "32,050"
+      "capacity": 32,050
     },
     {
       "name": "Brighton & Hove Albion FC",
       "code": "BHA",
       "country": "England",
       "stadium": "Falmer Stadium",
-      "capacity": "31,800"
+      "capacity": 31,800
     },
     {
       "name": "Chelsea FC",
       "code": "CHE",
       "country": "England",
       "stadium": "Stamford Bridge",
-      "capacity": "40,341"
+      "capacity": 40,341
     }
   ]
 }
