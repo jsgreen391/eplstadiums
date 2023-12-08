@@ -1,8 +1,6 @@
 [
     {
       "name": "Nottingham Forrest FC",
-      "code": "NFC",
-      "country": "England",
       "stadium": "City Ground",
       "capacity": "30332",
         "latitude": 52.937329584,
@@ -10,8 +8,6 @@
     },
     {
       "name": "AFC Bournemouth",
-      "code": "BOU",
-      "country": "England",
       "stadium": "Vitality Stadium",
       "capacity": "11329",
         "latitude": 50.734497062,
@@ -19,8 +15,6 @@
     },
     {
       "name": "Fullham FC",
-      "code": "FUL",
-      "country": "England",
       "stadium": "Craven Cottage",
       "capacity": "22384",
         "latitude": 51.47166478,
@@ -28,8 +22,6 @@
     },
     {
       "name": "Brentford FC",
-      "code": "BRE",
-      "country": "England",
       "stadium": "Gtech Community Stadium",
       "capacity": "17250",
         "latitude": 51.490715,
@@ -37,8 +29,6 @@
     },
     {
       "name": "Manchester United FC",
-      "code": "MUN",
-      "country": "England",
       "stadium": "Old Trafford",
       "capacity": "74310",
         "latitude": 53.463493,
@@ -46,8 +36,6 @@
     },
     {
       "name": "Manchester City FC",
-      "code": "MCI",
-      "country": "England",
       "stadium": "Etihad Stadium",
       "capacity": "53400",
         "latitude": 53.483135,
@@ -55,8 +43,6 @@
     },
     {
       "name": "Aston Villa FC",
-      "code": "AVL",
-      "country": "England",
       "stadium": "Villa Park",
       "capacity": "42657",
         "latitude": 52.509090,
@@ -64,8 +50,6 @@
     },
     {
       "name": "Arsenal FC",
-      "code": "ARS",
-      "country": "England",
       "stadium": "Emirates Stadium",
       "capacity": "60704",
         "latitude": 51.554867,
@@ -73,8 +57,6 @@
     },
     {
       "name": "Crystal Palace FC",
-      "code": "CRY",
-      "country": "England",
       "stadium": "Selhurst Park",
       "capacity": "25486",
         "latitude": 51.398338,
@@ -82,8 +64,6 @@
     },
     {
       "name": "Sheffield United FC",
-      "code": "SHU",
-      "country": "England",
       "stadium": "Bramall Lane",
       "capacity": "32050",
         "latitude": 53.368831858,
@@ -91,8 +71,6 @@
     },
     {
       "name": "Liverpool FC",
-      "code": "LIV",
-      "country": "England",
       "stadium": "Anfield",
       "capacity": "54000",
         "latitude": 53.430759,
@@ -100,8 +78,6 @@
     },
     {
       "name": "West Ham United FC",
-      "code": "WHU",
-      "country": "England",
       "stadium": "London Stadium",
       "capacity": "62500",
         "latitude": 51.538811,
@@ -109,8 +85,6 @@
     },
     {
       "name": "Newcastle United FC",
-      "code": "NEW",
-      "country": "England",
       "stadium": "St James' Park",
       "capacity": "52305",
         "latitude": 54.975170,
@@ -118,8 +92,6 @@
     },
     {
       "name": "Burnley FC",
-      "code": "BUR",
-      "country": "England",
       "stadium": "Turf Moor",
       "capacity": "21944",
         "latitude": 53.789108,
@@ -127,8 +99,6 @@
     },
     {
       "name": "Tottenham Hotspur FC",
-      "code": "TOT",
-      "country": "England",
       "stadium": "Tottenham Hotspur Stadium",
       "capacity": "62850",
         "latitude": 51.604252,
@@ -136,8 +106,6 @@
     },
     {
       "name": "Everton FC",
-      "code": "EVE",
-      "country": "England",
       "stadium": "Goodison Park",
       "capacity": "52888",
         "latitude": 53.438751,
@@ -145,8 +113,6 @@
     },
     {
       "name": "Luton Town",
-      "code": "LUT",
-      "country": "England",
       "stadium": "Kenilworth Road",
       "capacity": "11500",
         "latitude": 51.883829798,
@@ -154,8 +120,6 @@
     },
     {
       "name": "Wolverhampton Wanderers FC",
-      "code": "WOL",
-      "country": "England",
       "stadium": "Molineux Stadium",
       "capacity": "32050",
         "latitude": 52.590382,
@@ -163,8 +127,6 @@
     },
     {
       "name": "Brighton & Hove Albion FC",
-      "code": "BHA",
-      "country": "England",
       "stadium": "American Express Stadium",
       "capacity": "31876",
         "latitude": 50.857089905,
@@ -172,8 +134,6 @@
     },
     {
       "name": "Chelsea FC",
-      "code": "CHE",
-      "country": "England",
       "stadium": "Stamford Bridge",
       "capacity": "40341",
         "latitude": 51.481834,
