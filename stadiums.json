@@ -4,140 +4,180 @@
       "code": "NFC",
       "country": "England",
       "stadium": "City Ground",
-      "capacity": "30332"
+      "capacity": "30332",
+        "latitude": 52.937329584,
+        "longtitude": -1.126332828
     },
     {
       "name": "AFC Bournemouth",
       "code": "BOU",
       "country": "England",
       "stadium": "Vitality Stadium",
-      "capacity": "11329"
+      "capacity": "11329",
+        "latitude": 50.734497062,
+        "longtitude": -1.836329988
     },
     {
       "name": "Fullham FC",
       "code": "FUL",
       "country": "England",
       "stadium": "Craven Cottage",
-      "capacity": "22384"
+      "capacity": "22384",
+        "latitude": 51.47166478,
+        "longtitude": -0.219665788
     },
     {
       "name": "Brentford FC",
       "code": "BRE",
       "country": "England",
       "stadium": "Gtech Community Stadium",
-      "capacity": "17250"
+      "capacity": "17250",
+        "latitude": 51.490715,
+        "longtitude": -0.289048
     },
     {
       "name": "Manchester United FC",
       "code": "MUN",
       "country": "England",
       "stadium": "Old Trafford",
-      "capacity": "74310"
+      "capacity": "74310",
+        "latitude": 53.463493,
+        "longtitude": -2.292279
     },
     {
       "name": "Manchester City FC",
       "code": "MCI",
       "country": "England",
       "stadium": "Etihad Stadium",
-      "capacity": "53400"
+      "capacity": "53400",
+        "latitude": 53.483135,
+        "longtitude": -2.200941
     },
     {
       "name": "Aston Villa FC",
       "code": "AVL",
       "country": "England",
       "stadium": "Villa Park",
-      "capacity": "42657"
+      "capacity": "42657",
+        "latitude": 52.509090,
+        "longtitude": -1.885249
     },
     {
       "name": "Arsenal FC",
       "code": "ARS",
       "country": "England",
       "stadium": "Emirates Stadium",
-      "capacity": "60704"
+      "capacity": "60704",
+        "latitude": 51.554867,
+        "longtitude": -2.287553
     },
     {
       "name": "Crystal Palace FC",
       "code": "CRY",
       "country": "England",
       "stadium": "Selhurst Park",
-      "capacity": "25486"
+      "capacity": "25486",
+        "latitude": 51.398338,
+        "longtitude": -0.086084
     },
     {
-      "name": "Southampton FC",
-      "code": "SOU",
+      "name": "Sheffield United FC",
+      "code": "SHU",
       "country": "England",
-      "stadium": "Saint Mary's Stadium",
-      "capacity": "32384"
+      "stadium": "Bramall Lane",
+      "capacity": "32050",
+        "latitude": 53.368831858,
+        "longtitude": -1.46916479
     },
     {
       "name": "Liverpool FC",
       "code": "LIV",
       "country": "England",
       "stadium": "Anfield",
-      "capacity": "54000"
+      "capacity": "54000",
+        "latitude": 53.430759,
+        "longtitude": -2.961425
     },
     {
       "name": "West Ham United FC",
       "code": "WHU",
       "country": "England",
-      "stadium": "Boleyn Ground",
-      "capacity": "35016"
+      "stadium": "London Stadium",
+      "capacity": "62500",
+        "latitude": 51.538811,
+        "longtitude": -0.017136
     },
     {
       "name": "Newcastle United FC",
       "code": "NEW",
       "country": "England",
-      "stadium": "St James Park",
-      "capacity": "52305"
+      "stadium": "St James' Park",
+      "capacity": "52305",
+        "latitude": 54.975170,
+        "longtitude": -1.622539
     },
     {
-      "name": "Leicester City FC",
-      "code": "LEI",
+      "name": "Burnley FC",
+      "code": "BUR",
       "country": "England",
-      "stadium": "King Power Stadium",
-      "capacity": "32261"
+      "stadium": "Turf Moor",
+      "capacity": "21944",
+        "latitude": 53.789108,
+        "longtitude": -2.230575
     },
     {
       "name": "Tottenham Hotspur FC",
       "code": "TOT",
       "country": "England",
       "stadium": "Tottenham Hotspur Stadium",
-      "capacity": "62850"
+      "capacity": "62850",
+        "latitude": 51.604252,
+        "longtitude": -0.067007
     },
     {
       "name": "Everton FC",
       "code": "EVE",
       "country": "England",
-      "stadium": "Everton Stadium",
-      "capacity": "52888"
+      "stadium": "Goodison Park",
+      "capacity": "52888",
+        "latitude": 53.438751,
+        "longtitude": -2.966681
     },
     {
-      "name": "Leeds United FC",
-      "code": "LEE",
+      "name": "Luton Town",
+      "code": "LUT",
       "country": "England",
-      "stadium": "Elland Road",
-      "capacity": "37608"
+      "stadium": "Kenilworth Road",
+      "capacity": "11500",
+        "latitude": 51.883829798,
+        "longtitude": -0.425664964
     },
     {
       "name": "Wolverhampton Wanderers FC",
       "code": "WOL",
       "country": "England",
       "stadium": "Molineux Stadium",
-      "capacity": "32050"
+      "capacity": "32050",
+        "latitude": 52.590382,
+        "longtitude": -2.130924
     },
     {
       "name": "Brighton & Hove Albion FC",
       "code": "BHA",
       "country": "England",
-      "stadium": "Falmer Stadium",
-      "capacity": "31800"
+      "stadium": "American Express Stadium",
+      "capacity": "31876",
+        "latitude": 50.857089905,
+        "longtitude": -0.0766330268
     },
     {
       "name": "Chelsea FC",
       "code": "CHE",
       "country": "England",
       "stadium": "Stamford Bridge",
-      "capacity": "40341"
+      "capacity": "40341",
+        "latitude": 51.481834,
+        "longtitude": -0.191390
     }
   ]
 
