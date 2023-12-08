@@ -6,7 +6,7 @@
       "stadium": "City Ground",
       "capacity": "30332",
         "latitude": 52.937329584,
-        "longtitude": -1.126332828
+        "longitude": -1.126332828
     },
     {
       "name": "AFC Bournemouth",
@@ -15,7 +15,7 @@
       "stadium": "Vitality Stadium",
       "capacity": "11329",
         "latitude": 50.734497062,
-        "longtitude": -1.836329988
+        "longitude": -1.836329988
     },
     {
       "name": "Fullham FC",
@@ -24,7 +24,7 @@
       "stadium": "Craven Cottage",
       "capacity": "22384",
         "latitude": 51.47166478,
-        "longtitude": -0.219665788
+        "longitude": -0.219665788
     },
     {
       "name": "Brentford FC",
@@ -33,7 +33,7 @@
       "stadium": "Gtech Community Stadium",
       "capacity": "17250",
         "latitude": 51.490715,
-        "longtitude": -0.289048
+        "longitude": -0.289048
     },
     {
       "name": "Manchester United FC",
@@ -42,7 +42,7 @@
       "stadium": "Old Trafford",
       "capacity": "74310",
         "latitude": 53.463493,
-        "longtitude": -2.292279
+        "longitude": -2.292279
     },
     {
       "name": "Manchester City FC",
@@ -51,7 +51,7 @@
       "stadium": "Etihad Stadium",
       "capacity": "53400",
         "latitude": 53.483135,
-        "longtitude": -2.200941
+        "longitude": -2.200941
     },
     {
       "name": "Aston Villa FC",
@@ -60,7 +60,7 @@
       "stadium": "Villa Park",
       "capacity": "42657",
         "latitude": 52.509090,
-        "longtitude": -1.885249
+        "longitude": -1.885249
     },
     {
       "name": "Arsenal FC",
@@ -69,7 +69,7 @@
       "stadium": "Emirates Stadium",
       "capacity": "60704",
         "latitude": 51.554867,
-        "longtitude": -2.287553
+        "longitude": -2.287553
     },
     {
       "name": "Crystal Palace FC",
@@ -78,7 +78,7 @@
       "stadium": "Selhurst Park",
       "capacity": "25486",
         "latitude": 51.398338,
-        "longtitude": -0.086084
+        "longitude": -0.086084
     },
     {
       "name": "Sheffield United FC",
@@ -87,7 +87,7 @@
       "stadium": "Bramall Lane",
       "capacity": "32050",
         "latitude": 53.368831858,
-        "longtitude": -1.46916479
+        "longitude": -1.46916479
     },
     {
       "name": "Liverpool FC",
@@ -96,7 +96,7 @@
       "stadium": "Anfield",
       "capacity": "54000",
         "latitude": 53.430759,
-        "longtitude": -2.961425
+        "longitude": -2.961425
     },
     {
       "name": "West Ham United FC",
@@ -105,7 +105,7 @@
       "stadium": "London Stadium",
       "capacity": "62500",
         "latitude": 51.538811,
-        "longtitude": -0.017136
+        "longitude": -0.017136
     },
     {
       "name": "Newcastle United FC",
@@ -114,7 +114,7 @@
       "stadium": "St James' Park",
       "capacity": "52305",
         "latitude": 54.975170,
-        "longtitude": -1.622539
+        "longitude": -1.622539
     },
     {
       "name": "Burnley FC",
@@ -123,7 +123,7 @@
       "stadium": "Turf Moor",
       "capacity": "21944",
         "latitude": 53.789108,
-        "longtitude": -2.230575
+        "longitude": -2.230575
     },
     {
       "name": "Tottenham Hotspur FC",
@@ -132,7 +132,7 @@
       "stadium": "Tottenham Hotspur Stadium",
       "capacity": "62850",
         "latitude": 51.604252,
-        "longtitude": -0.067007
+        "longitude": -0.067007
     },
     {
       "name": "Everton FC",
@@ -141,7 +141,7 @@
       "stadium": "Goodison Park",
       "capacity": "52888",
         "latitude": 53.438751,
-        "longtitude": -2.966681
+        "longitude": -2.966681
     },
     {
       "name": "Luton Town",
@@ -150,7 +150,7 @@
       "stadium": "Kenilworth Road",
       "capacity": "11500",
         "latitude": 51.883829798,
-        "longtitude": -0.425664964
+        "longitude": -0.425664964
     },
     {
       "name": "Wolverhampton Wanderers FC",
@@ -159,7 +159,7 @@
       "stadium": "Molineux Stadium",
       "capacity": "32050",
         "latitude": 52.590382,
-        "longtitude": -2.130924
+        "longitude": -2.130924
     },
     {
       "name": "Brighton & Hove Albion FC",
@@ -168,7 +168,7 @@
       "stadium": "American Express Stadium",
       "capacity": "31876",
         "latitude": 50.857089905,
-        "longtitude": -0.0766330268
+        "longitude": -0.0766330268
     },
     {
       "name": "Chelsea FC",
@@ -177,7 +177,7 @@
       "stadium": "Stamford Bridge",
       "capacity": "40341",
         "latitude": 51.481834,
-        "longtitude": -0.191390
+        "longitude": -0.191390
     }
   ]
 
